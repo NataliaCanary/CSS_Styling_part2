@@ -1,0 +1,61 @@
+body {
+    width: 700px;
+    margin:0 auto;
+    padding: 0;
+    text-align:center;
+  }
+  
+  header {
+    background-color: grey;
+  
+  }
+  
+  header h1 {
+    height:80px;
+    line-height: 80px;
+  }
+  
+  nav {
+    background-color: darkgray;
+    text-align: left;
+    padding: 10px;
+  
+  }
+  
+  nav a {
+    color: white;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+  
+  }
+  
+  nav a:hover{
+    background-color: lightgrey;
+    color: black;
+  }
+  
+  #featured {
+    background: lightgrey;
+    float: left;
+    width: 200px;
+  }
+  
+  #content {
+    float: right;
+    width: 500px;
+  }
+  
+  #extras {
+    background: lightgrey;
+    float: left;
+    width: 200px;
+  
+  }
+  
+  footer {
+    clear:both;
+    text-align: center;
+    background-color: darkgrey;
+  }
+  
